@@ -6,8 +6,11 @@ I'm a game developer focused on programming, gameplay systems, and custom engine
 C++ | C# | OpenGL | SDL | Unity | Unreal | Git | ImGui 
 
 🎮 Featured Projects:
-- **Hawk Engine** – Custom 3D game engine built from scratch
-- **Blood & Thunder** – Top-down action game set in Warhammer 40K universe
-- **Mini Ninja** – SDL platformer with boss fights
+- **Runic2D** – Lightweight 2D engine designed with modularity and performance in mind
+- **Hawk Engine** – Custom 3D engine with editor, scripting, UI, PBR rendering, and more
+- **Blood & Thunder** – Top-down action game built using Hawk Engine, set in the Warhammer 40K universe
+- **Mini Ninja** – SDL platformer with enemy encounters and a multi-phase boss fight
 
+🎯 I’ve also participated in several game jams and side projects, including titles like Racing Car, Skyfox, Fishy Feast, among others.
+  
 📫 [My Portfolio](https://sites.google.com/view/joanmarquesbesses/home) | [LinkedIn](https://www.linkedin.com/in/joanmarquesbesses)
