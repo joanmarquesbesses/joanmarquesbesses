@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi! I'm Joan
+I'm a game developer focused on programming, gameplay systems, and custom engines.  
+💡 Passionate about C++, OpenGL, and game architecture.  
 
-<!--
-**joanmarquesbesses/joanmarquesbesses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies I use:  
+C++ | C# | OpenGL | SDL | Unity | Unreal | Git | ImGui 
 
-Here are some ideas to get you started:
+🎮 Featured Projects:
+- **Hawk Engine** – Custom 3D game engine built from scratch
+- **Blood & Thunder** – Top-down action game set in Warhammer 40K universe
+- **Mini Ninja** – SDL platformer with boss fights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [My Portfolio](https://sites.google.com/view/joanmarquesbesses/home) | [LinkedIn](www.linkedin.com/in/joanmarquesbesses)
