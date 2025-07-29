@@ -10,4 +10,4 @@ C++ | C# | OpenGL | SDL | Unity | Unreal | Git | ImGui
 - **Blood & Thunder** – Top-down action game set in Warhammer 40K universe
 - **Mini Ninja** – SDL platformer with boss fights
 
-📫 [My Portfolio](https://sites.google.com/view/joanmarquesbesses/home) | [LinkedIn](www.linkedin.com/in/joanmarquesbesses)
+📫 [My Portfolio](https://sites.google.com/view/joanmarquesbesses/home) | [LinkedIn](https://www.linkedin.com/in/joanmarquesbesses)
