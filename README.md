@@ -13,4 +13,4 @@ C++ | C# | OpenGL | SDL | Unity | Unreal | Git | ImGui
 
 🎯 I’ve also participated in several game jams and side projects, including titles like Racing Car, Skyfox, Fishy Feast, among others.
   
-📫 [My Portfolio](https://sites.google.com/view/joanmarquesbesses/home](https://joanmarquesbesses.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/joanmarquesbesses)
+📫 [My Portfolio](https://sites.google.com/view/joanmarquesbesses/home](https://joanmarquesbesses.github.io/Portfolio/)) | [LinkedIn](https://www.linkedin.com/in/joanmarquesbesses)
