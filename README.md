@@ -3,7 +3,7 @@ I'm a game developer focused on programming, gameplay systems, and custom engine
 💡 Passionate about C++ and game architecture.  
 
 🛠️ Technologies I use:  
-C++ | C# | OpenGL | SDL | Unity | Unreal | Git | ImGui 
+C++ | C# | Unity | Unreal | OpenGL | Git | ImGui 
 
 🎮 Featured Projects:
 - **Runic2D** – Lightweight 2D engine designed with modularity and performance in mind
