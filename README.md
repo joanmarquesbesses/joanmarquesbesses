@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Joan
 I'm a game developer focused on programming, gameplay systems, and custom engines.  
-💡 Passionate about C++, OpenGL, and game architecture.  
+💡 Passionate about C++ and game architecture.  
 
 🛠️ Technologies I use:  
 C++ | C# | OpenGL | SDL | Unity | Unreal | Git | ImGui 
